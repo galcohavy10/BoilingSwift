@@ -54,7 +54,7 @@ This repo is a **hands-on Swift reference**, not a beginner tutorial. Each `.swi
 **Includes:**  
 - Simple example of a `ViewController` passing data via a delegate  
 - Comments explaining why we use `weak var delegate`  
-- Realistic analogy: A boss (delegate) gives tasks to an intern (child object) without needing to know how the intern will do the work — as long as the intern follows the defined job description (protocol
+- Realistic analogy: A boss (delegate) gives tasks to an intern (child object) without needing to know how the intern will do the work — as long as the intern follows the defined job description (protocol).
 
 ---
 
